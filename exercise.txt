@@ -1,0 +1,15 @@
+Quiz Answers.
+
+1.
+Var: I can re-assign & re-declare it later although I declare it before.
+Also, it creates function scope.
+
+Let: I can re-assign but can't re-decalre it later. It creates block scope.
+
+2.
+Same as 1 answer with var but const, you can't re-assign and re-declare it later. It also creates block scope.
+
+3. You can re-assign in let but can't re-assign in const.
+
+4. It is a way of Javascript work through out the code lines. When you use let or const, you need to declare variable first and then you can work with it, unless you will see an error message.
+But var, until you actually assign the value in it, you will see undefined, means there is but not assigned with any value.
